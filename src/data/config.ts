@@ -21,7 +21,7 @@ export const SITE_CONFIG = {
   navigation: [
     { label: "ホーム", href: "/" }, // Home
     { label: "フレーバー", href: "/#flavours" }, // Flavours
-    { label: "お客様の声", href: "/#testimonials" }, // Testimonials
+    { label: "私たちについて", href: "/about" }, // About Us
     { label: "お問い合わせ", href: "/contact" }, // Contact Us
   ],
   footerLinks: [
