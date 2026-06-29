@@ -12,7 +12,7 @@ export default function AboutPage() {
         transition={{ duration: 0.8 }}
       >
         <h1 className="text-4xl md:text-6xl font-bold text-white mb-8 uppercase tracking-wider drop-shadow-sm">
-          私たちについて (About Us)
+          私たちについて
         </h1>
         
         <div className="bg-white/40 backdrop-blur-md rounded-3xl p-8 md:p-12 shadow-lg space-y-6 text-[#4a2e35] text-lg leading-relaxed">

@@ -12,7 +12,7 @@ export default function ContactPage() {
         transition={{ duration: 0.8 }}
       >
         <h1 className="text-4xl md:text-6xl font-bold text-white mb-8 uppercase tracking-wider drop-shadow-sm">
-          お問い合わせ (Contact Us)
+          お問い合わせ 
         </h1>
         
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
@@ -55,7 +55,7 @@ export default function ContactPage() {
                   <textarea rows={5} className="w-full bg-white/50 rounded-3xl px-6 py-4 outline-none text-[#9f3455] resize-none"></textarea>
                 </div>
                 <button type="submit" className="bg-[#9f3455] text-white px-8 py-3 rounded-full font-bold hover:bg-[#862b46] transition-colors self-end">
-                  送信する (Send)
+                  送信する 
                 </button>
              </form>
           </div>
